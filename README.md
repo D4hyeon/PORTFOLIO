@@ -7,11 +7,9 @@
 
 📝 ** ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
-- ✔  Please have a look to my Digital Protfolio :  https://
-- 💪 Please have a look to my Company Page :  https://
-- 💻 My LeetCode Profile : https://
-- 😎 Check my Digital archivements Badges https://w
-- 🌟 Visit My Blog Page : https:/
+- ✔  look to my Protfolio :  https://
+- 💻  Visit My : https://
+- 🌟 Visit My Blog : https:/
 
 💻 *Languages and Tools:* 🛠️<br>
 
