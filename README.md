@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙂, I'm Dhyeon</h1>
 <h3 align="center"> :) </h3>
 
-<h4 align="center">I am a cookie</h4>
+<h4 align="center">I am a Hongda</h4>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=D4hyeon.D4hyeon) -->
 
