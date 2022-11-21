@@ -7,9 +7,9 @@
 
 📝 ** ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
-- ✔  look to my Protfolio :  https://
-- 💻  Visit My : https://
-- 🌟 Visit My Blog : https:/
+- ✔  look to my Protfolio :  https://d4hyeon.github.io/portfolio/
+- 💻  Visit My github : https://github.com/D4hyeon
+- 🌟 Visit My Blog : https://blog.naver.com/wtph00
 
 💻 *Languages and Tools:* 🛠️<br>
 
