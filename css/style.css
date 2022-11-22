@@ -99,17 +99,6 @@ ul li::before {
     margin-right: 10px;
 }
 
-ul li:nth-child(1)::before {
-    content: url('../images/ico_mobile.png');
-    
-}
-ul li:nth-child(2)::before {
-    content: url('../images/ico_email.png');
-}
-ul li:nth-child(3)::before {
-    content: url('../images/ico_blog.png');
-}
-
 #skill ol {
     list-style: none;
     padding: 0;
